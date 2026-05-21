@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 
 # Токен будет взят из переменных окружения на Render
-API_TOKEN = os.getenv("API_TOKEN")
+API_TOKEN = os.getenv("8642188502:AAHLH8z68EVFZUofIGG-ejuQmt1_39J8hDA")
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
